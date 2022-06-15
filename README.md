@@ -4,7 +4,7 @@ I'm IotaHydrae from China.
 
 **About me**
 
-- A Embedded Android/Linux BSP Engineer.
+- An Embedded Android/Linux BSP Engineer.
 
 - Another Linux kernel developer
 
