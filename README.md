@@ -1,12 +1,17 @@
 ### Hi there 👋
 
-I'm IotaHydrae from China. A Embedded Linux BSP Engineer.
+I'm IotaHydrae from China.
+
+**About me**
+
+- A Embedded Android/Linux BSP Engineer.
+
+- Another Linux kernel developer
 
 Check more projects on @[embeddedboys](https://github.com/embeddedboys/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IotaHydrae&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![IotaHydrae's GitHub stats](https://github-readme-stats.vercel.app/api?username=IotaHydrae&show_icons=true&theme=radical)
-
+| ![IotaHydrae's GitHub stats](https://github-readme-stats.vercel.app/api?username=IotaHydrae&show_icons=true&theme=buefy&hide_border=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IotaHydrae&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
+| ------------- | ------------- |
 <!--
 **IotaHydrae/IotaHydrae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
