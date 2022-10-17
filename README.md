@@ -4,7 +4,7 @@ I'm IotaHydrae.
 
 **About me**
 
-- An Embedded Linux BSP Engineer.
+- Embedded Linux BSP Engineer.
 
 - Another Linux kernel developer
 
