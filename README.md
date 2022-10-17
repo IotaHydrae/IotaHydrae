@@ -1,6 +1,6 @@
 ### Hi
 
-I'm IotaHydrae from China.
+I'm IotaHydrae.
 
 **About me**
 
