@@ -1,12 +1,12 @@
-### Hi
-
-I'm IotaHydrae.
-
-**About me**
+**Something about me**
 
 - Embedded Linux BSP Engineer.
 
 - Another Linux kernel developer
+
+- Love DIY, love opensource, love life and love somebody.
+
+- Be nice!
 
 Check more projects on @[embeddedboys](https://github.com/embeddedboys/)
 
