@@ -10,7 +10,7 @@ I'm IotaHydrae.
 
 Check more projects on @[embeddedboys](https://github.com/embeddedboys/)
 
-Cheers,
+Cheers, iotah
 
 | ![IotaHydrae's GitHub stats](https://github-readme-stats.vercel.app/api?username=IotaHydrae&show_icons=true&theme=buefy&hide_border=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IotaHydrae&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
