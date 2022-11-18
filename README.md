@@ -2,13 +2,15 @@
 
 - Embedded Linux BSP Engineer.
 
-- Another Linux kernel developer
+- Another Linux kernel developer.
 
 - Love DIY, love opensource, love life and love somebody.
 
 - Be nice!
 
-Check more projects on @[embeddedboys](https://github.com/embeddedboys/)
+How about check more fun stuff on @[embeddedboys](https://github.com/embeddedboys/)?
+
+Hope you have a great day!
 
 Cheers, iotah
 
