@@ -4,9 +4,7 @@
 
 - Another Linux kernel developer.
 
-- Love DIY, love opensource, love life and love somebody.
-
-- Be nice!
+- Love DIY, love opensource and love life.
 
 How about check more fun stuff on @[embeddedboys](https://github.com/embeddedboys/)?
 
