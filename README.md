@@ -4,7 +4,7 @@
 
 Embedded Linux BSP Engineer. Another Linux kernel developer.
 
-I built things.
+I'd love to create things.
 
 check some cool stuff on @[embeddedboys](https://github.com/embeddedboys/)?
 
