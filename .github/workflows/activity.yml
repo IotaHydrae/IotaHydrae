@@ -9,7 +9,7 @@ on:
 jobs:
   BadgeUpdater:
     name: Static Badge Updater
-    runs-on: rpi4b
+    runs-on: ubuntu-lastest
 
     steps:
       - name: Update README Discord Badge to Latest Upstream
