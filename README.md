@@ -1,4 +1,4 @@
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Playing%20Game/QQ%2C%204%20hours%2057%20minutes%20elapsed.?color=edca00&labelColor=00cd90&icon=discord)](https://github.com/IotaHydrae/IotaHydrae)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Playing%20Game/QQ%2C%205%20hours%208%20minutes%20elapsed.?color=edca00&labelColor=00cd90&icon=discord)](https://github.com/IotaHydrae/IotaHydrae)
 
 > <h1 align="center">Something about me</h1>
   
