@@ -6,9 +6,11 @@
 
 Embedded Linux BSP Engineer. Another Linux kernel developer.
 
-I'd love to create things.
+Bootloader and OS kernel researching. Expert on display tech.
 
-check some cool stuff on @[embeddedboys](https://github.com/embeddedboys/)?
+Also make Raspberrypi RP2040 MCU based projects.
+
+@[embeddedboys](https://github.com/embeddedboys/)?
 
 Cheers,</br>
 iotah
