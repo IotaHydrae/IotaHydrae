@@ -10,7 +10,7 @@ Bootloader and OS kernel researching. Expert on display tech.
 
 Also make Raspberrypi RP2040 MCU based projects.
 
-@[embeddedboys](https://github.com/embeddedboys/)?
+@[embeddedboys](https://github.com/embeddedboys/)
 
 Cheers,</br>
 iotah
