@@ -4,13 +4,13 @@
   
 <div align="center">
 
+INFJ-A (Assertive Advocates)
+
 Embedded Linux BSP Engineer. Another Linux kernel developer.
 
-Bootloader and OS kernel researching. Expert on display tech.
+Bootloader and OS kernel researching. Display Tech expert.
 
-Also make Raspberrypi RP2040 MCU based projects.
-
-@[embeddedboys](https://github.com/embeddedboys/)
+start projects on @[embeddedboys](https://github.com/embeddedboys/)
 
 Cheers,</br>
 iotah
