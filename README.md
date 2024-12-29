@@ -4,8 +4,6 @@
   
 <div align="center">
 
-INFJ-A (Assertive Advocates)
-
 Embedded Linux BSP Engineer. Another Linux kernel developer.
 
 Bootloader and OS kernel researching. Display Tech expert.
