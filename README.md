@@ -1,6 +1,6 @@
 <div align="center">
 
-I am an embedded linux bsp engineer and also work as a </br>linux kernel developer. I specialize in researching bootloader</br> and OS kernel, and I am an expert in display technology.
+I am an embedded linux bsp engineer and also work as a </br>linux kernel developer. I specialize in researching bootloader</br> and OS kernel, and I am considered a half-expert in display technology.
 
 start projects on @[embeddedboys](https://github.com/embeddedboys/)
 
