@@ -1,7 +1,10 @@
+- C & Rust
 - linux kernel hacker
 - embedded linux bsp engineer
 
-I specialize in researching bootloader and OS kernel, I'm also kind of an expert in the field of display technology.
+I specialize in researching bootloader, OS kernel, device drivers.
+
+I'm also kind of an expert in the field of display technology.
 
 start projects on @[embeddedboys](https://github.com/embeddedboys/)
 
