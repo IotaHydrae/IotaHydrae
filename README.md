@@ -2,7 +2,7 @@
 - linux kernel hacker
 - embedded linux bsp engineer
 
-I specialize in researching bootloader, OS kernel, device drivers.
+I specialize in researching bootloader, OS kernel and device drivers.
 
 I'm also kind of an expert in the field of display technology.
 
